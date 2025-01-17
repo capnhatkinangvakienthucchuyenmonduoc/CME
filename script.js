@@ -1,4 +1,4 @@
-const url = 'https://docs.google.com/spreadsheets/d/1WvlHEtXzm4EY9BO-laDGRbN4onSxnFLpwy_gkOYnsaM/gviz/tq?tqx=out:json';
+const url = 'https://docs.google.com/spreadsheets/d/1kBRlTY1cjK3NXPsIVqd4uepnKt-SiD17LHUoNjIO2TQ/gviz/tq?tqx=out:json';
 function traCuu() {
   // Lấy giá trị từ các trường nhập
   const cccd = document.getElementById('cccd').value.trim();
